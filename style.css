@@ -709,7 +709,7 @@ input:checked + label .description {
     100%{ width: 70%; }
 }
 .skills_bar .bar .expressjs{
-    width: 65%;
+    width: 70%;
     animation: express 3s;
     transition: all 3s ease;
 }
